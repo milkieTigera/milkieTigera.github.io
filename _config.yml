@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Yu Zhao"
 title_separator          : "-"
 name                     : &name "Yu Zhao"
 description              : &description "Yu Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yu Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing, China"
+  employer         : "Southeast University & bjzgca"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "longxizhaoyu@foxmail.com" 
 
   # Academic websites
   academia         : # URL
