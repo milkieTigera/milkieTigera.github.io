@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yu Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Beijing, China"
-  employer         : "Southeast University & bjzgca"
+  bio              : "PhD candidate, supervised by Professor Jie Gui (guijiejie.github.io), with research interests in generative AI, AI security, etc."
+  location         : "Beijing/Nanjing, China"
+  employer         : "Zhongguancun Acadamy & Southeast University"
   uri              : # URL
   email            : "longxizhaoyu@foxmail.com" 
 
