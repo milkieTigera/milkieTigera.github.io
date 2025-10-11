@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yu Zhao"
 title_separator          : "-"
 name                     : &name "Yu Zhao"
-description              : &description "Yu Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yu Zhao's academic homepage."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://milkieTigera.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -242,9 +242,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      # comments: true
+      # share: true
+      # related: true
   # _pages
   - scope:
       path: ""
@@ -268,8 +268,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      # share: true
+      # comments: true
   # _portfolio
   # - scope:
   #     path: ""
