@@ -96,15 +96,28 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            : "my-blog"
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+  provider               : "giscus" # 👈 将 provider 设置为 "giscus"
+  giscus: # 👈 添加下面这个 giscus 配置块
+    repo                 : "milkieTigera/milkieTigera.github.io" # 你的仓库，从 Giscus 网站获取
+    repo_id              : "R_kgDOQAeIgg" # 你的仓库 ID，从 Giscus 网站生成的代码中获取
+    category             : "comments" # 你选择的分类名
+    category_id          : "DIC_kwDOQAeIgs4CwoHB" # 分类的 ID，从 Giscus 网站生成的代码中获取
+    mapping              : "pathname" # 映射关系
+    reactions_enabled    : "1" # 启用 emoji 反应
+    emit_metadata        : "0"
+    input_position       : "bottom"
+    theme                : "light"
+    lang                 : "zh-CN" # 评论区语言
+# comments:
+#   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+#   disqus:
+#     shortname            : "my-blog"
+#   discourse:
+#     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+#   facebook:
+#     appid                :
+#     num_posts            : # 5 (default)
+#     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
