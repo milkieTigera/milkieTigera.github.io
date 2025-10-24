@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on the intersection of Generative AI and AI security. I am fortunate to be advised by Jie Gui (guijiejie.github.io) and am a member of the Jie Group.
+My research focuses on the intersection of Generative AI and AI security. I am fortunate to be advised by [Ran He](https://rhe-web.github.io/) and [Jie Gui](https://guijiejie.github.io).
 
 
 Research Interests
