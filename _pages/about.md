@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+
 My research focuses on the intersection of Generative AI and AI security. I am fortunate to be advised by Prof. [Ran He](https://rhe-web.github.io/) and Prof. [Jie Gui](https://guijiejie.github.io).
 
 
-Research Interests
+### Research Interests
+
 [Research Interest 1: Generative AI]
 
 [Research Interest 2: AI Security]
 
 [Research Interest 3: Multi-modal Learning]
 
-Latest News & Posts
+### Latest News & Posts
 <!--
 下面这段代码使用了 Jekyll Liquid 语法。
 它会自动抓取并显示你在 _posts 文件夹中最新发布的 3 篇文章。
