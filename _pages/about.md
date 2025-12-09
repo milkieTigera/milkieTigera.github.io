@@ -9,16 +9,8 @@ redirect_from:
 
 ### About Me
 
-My research focuses on the intersection of Generative AI and AI security. I am fortunate to be advised by Prof. [Ran He](https://rhe-web.github.io/) and Prof. [Jie Gui](https://guijiejie.github.io).
+My research focuses on the intersection of Generative AI and AI security. I am fortunate to be advised by Prof. [Ran He](https://rhe-web.github.io/), Prof. [Keke Gai](https://cst.bit.edu.cn/szdw/jsml/bssds/3600ddc31a2e4daa99c3a3c3be802f1b.htm) and Prof. [Jie Gui](https://guijiejie.github.io).
 
-
-### Research Interests
-
-[Research Interest 1: Generative AI]
-
-[Research Interest 2: AI Security]
-
-[Research Interest 3: Multi-modal Learning]
 
 ### Latest News & Posts
 <!--
